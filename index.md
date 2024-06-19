@@ -1,5 +1,5 @@
-#index.md
-#Documentação do projeto
+# index.md
+# Documentação do projeto
 
 Bem_vindo à documentação do nosso projeto. Aqui você encontrará
 informações sobre a instalação, uso e API.
@@ -34,6 +34,6 @@ Guia de como usar o software.
 
 Esta é a documentação da API do nosso projeto.
 
-#examples/
+# examples/
 
 Este diretório contém exemplos de uso do software.
