@@ -1,6 +1,6 @@
 ## Images
 
-![This is an alt text.](https://www.gfinfo.com.br/wp-content/uploads/2023/06/principais-linguagens-de-programacao.png"This is a sample image.")
+![This is an alt text.](https://www.gfinfo.com.br/wp-content/uploads/2023/06/principais-linguagens-de-programacao.png)
 
 ## Links
 
