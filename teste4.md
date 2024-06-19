@@ -1,10 +1,10 @@
 ## Images
 
-![This is an alt text.](/image/sample.webb "This is a sample image.")
+![This is an alt text.](https://www.gfinfo.com.br/wp-content/uploads/2023/06/principais-linguagens-de-programacao.png"This is a sample image.")
 
 ## Links
 
-You may be using [Markdown Live Preview](https:markdownlivepreview.com/).
+You may be using [Markdown Live Preview](https://www.gfinfo.com.br/introducao-as-principais-linguagens-de-programacao/).
 
 ## Blockquotes
 
